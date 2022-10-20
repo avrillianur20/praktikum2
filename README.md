@@ -1,4 +1,4 @@
-Nama: avrillia nur hidayah
+Nama: Avrillia Nur Hidayah
 
 NIM : 312210309
 
@@ -18,6 +18,8 @@ kemudian saya mencoba mengganti tulisan "hello" dengan nama saya, yang hasilnya 
 ### 1. mendefinisikan sebuah variabel
 
 '''
+
 a = 8
 
 b = 6
+'''
