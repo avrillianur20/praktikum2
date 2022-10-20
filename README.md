@@ -18,7 +18,6 @@ kemudian saya mencoba mengganti tulisan "hello" dengan nama saya, yang hasilnya 
 ### 1. mendefinisikan sebuah variabel
 
 '''
-
 a = 8
 
 b = 6
