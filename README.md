@@ -40,3 +40,18 @@ print('variabel b=',b)
 print("hasil penjumlahan a+b=",a+b)
 ```
 
+![Screenshot (587)](https://user-images.githubusercontent.com/115686359/197118741-defd9562-dd30-4dd5-9775-798d31408cc5.png)
+
+![Screenshot (587)](https://user-images.githubusercontent.com/115686359/197118899-dad1498e-243d-4cf3-9297-e576007e1c75.png)
+
+## Latihan 3 (mengimput nilai variabel dengan menjalankan IDLE)
+Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard
+### 1. mengimput suatu nilai variabel dengan cara
+
+```
+a=input ("masukkan nilai a:")
+
+b=input ("masukkan nilai b:")
+```
+
+### 2. 
