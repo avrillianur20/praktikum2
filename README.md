@@ -90,3 +90,6 @@ print("hasil pembagian {1}+{0}=%d").format(a,b) %(a/b))
 
 ![Screenshot (588)](https://user-images.githubusercontent.com/115686359/197124970-566cd920-82b8-4867-a714-ee622d84b3cb.png)
 
+![Screenshot (588)](https://user-images.githubusercontent.com/115686359/197125424-5ccef3c3-7032-4c16-b8aa-9460050fdf9c.png)
+
+
