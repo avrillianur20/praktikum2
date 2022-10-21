@@ -54,4 +54,16 @@ a=input ("masukkan nilai a:")
 b=input ("masukkan nilai b:")
 ```
 
-### 2. 
+![Screenshot (589)](https://user-images.githubusercontent.com/115686359/197121969-18d9c61c-6475-40a1-9b0c-777592a25af7.png)
+
+### 2. penggunaan IDLE python untuk mencetak nilai kedua variabel
+
+```
+print("variabel a=",a)
+
+print("variabel b=",b)
+```
+
+
+
+
