@@ -66,5 +66,13 @@ print("variabel b=",b)
 
 ![Screenshot (589)](https://user-images.githubusercontent.com/115686359/197122757-6f89b606-4d7e-4eb7-9c6f-4905a8e8d510.png)
 
+### 3. menggabungkan nilai variabel dengan String Format
+
+```
+print("hasil penggabungan {1}+
+
+{0}=%s".format (a,b) %(a+b))
+```
+
 
 
