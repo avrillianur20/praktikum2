@@ -88,4 +88,5 @@ print("hasil penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
 print("hasil pembagian {1}+{0}=%d").format(a,b) %(a/b))
 ```
 
+![Screenshot (588)](https://user-images.githubusercontent.com/115686359/197124970-566cd920-82b8-4867-a714-ee622d84b3cb.png)
 
