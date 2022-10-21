@@ -74,5 +74,18 @@ print("hasil penggabungan {1}+
 {0}=%s".format (a,b) %(a+b))
 ```
 
+![Screenshot (589)](https://user-images.githubusercontent.com/115686359/197123778-0118b3c0-3a15-4acb-bd51-c2ccc4e1fb00.png)
+
+### 4. mengkonversi kedua nilai variabel dengan perintah
+
+```
+a=int(a)
+
+b=int(b)
+
+print("hasil penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
+
+print("hasil pembagian {1}+{0}=%d").format(a,b) %(a/b))
+```
 
 
