@@ -93,4 +93,3 @@ print("hasil pembagian {1}+{0}=%d").format(a,b) %(a/b))
 Tampilan output nya akan seperti ini
 ![Screenshot (588)](https://user-images.githubusercontent.com/115686359/197125424-5ccef3c3-7032-4c16-b8aa-9460050fdf9c.png)
 
-
